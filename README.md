@@ -142,24 +142,6 @@ Insight Generation: Conducted exploratory analysis to identify trends, gaps, and
 
 Reporting: Exported key visuals and metrics into PDF format for stakeholder distribution.
 
-📃 Dashboard Preview ![Image](https://github.com/user-attachments/assets/15f69d69-05ea-45c8-8b5b-dc9da075ff19)
-
-📊 1. Inventory and Transaction Overview
-
-![Image](https://github.com/user-attachments/assets/e60ad371-83b2-4474-aad6-3e1d5a88d39d)
-
-🌍 2. Consumption by State
-
-![Image](https://github.com/user-attachments/assets/1a1298af-0823-4df7-8242-bd57b30c5e98)
-
-📈 3. Monthly Loss Trends
-
-![Image](https://github.com/user-attachments/assets/62c40168-367f-4ca4-be95-b691cdccd9cd)
-
-🏥 4. Service Type Breakdown
-
-![Image](https://github.com/user-attachments/assets/982df155-2868-4bfe-af67-b56f9fe9af16)
-
 **🛠️ Tools Used**
 
 Data Visualization: Power BI
